@@ -1,13 +1,13 @@
 "VertexLitGeneric"
 {
 
-	"$baseTexture" 		"models/mikeymack/horsecock/horsecock_d3"
-	"$bumpmap" 		"models/mikeymack/horsecock/horsecock_n"
-	
+	"$baseTexture" 		"models/m/h/horsecock_d"
+	"$bumpmap" 		"models/m/h/horsecock_n"
+
 	"$nocull" "1"
 	$halflambert 1
 
-	"$detail" "models/mikeymack/horsecock/detail_skin"
+	"$detail" "models/m/h/detail_skin"
 	$detailscale 10
 	$detailblendfactor 1
 	$detailblendmode 0
